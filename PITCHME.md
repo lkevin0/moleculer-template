@@ -5,17 +5,17 @@
 
 ---
 
-# Set up **Visual Studio Code**
+Set up **Visual Studio Code**
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install Extension Huachao Mao: [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 ---
 
-# Set up **Homebrew (macOS)**
-```
+Set up **Homebrew (macOS)**
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
-Copy and Paste in a macOS Terminal
+#### Copy and Paste in a macOS Terminal
 ---
 
 @snap[north-east span-100 text-06 text-gray]
