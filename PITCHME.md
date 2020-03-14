@@ -41,11 +41,9 @@
 ### Set up @color[#0C6EC9](Node.js)
 
 1. On macOS, Open terminal and run
-
 ```
-brew install yarn
+    brew install yarn
 ```
-
 2. On Windows, Download and Install [Node.js](https://nodejs.org/en/download/)
 3. Download and Install [yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 
