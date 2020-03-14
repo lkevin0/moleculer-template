@@ -43,7 +43,7 @@
 1. Open terminal
 2. Run the following command
 ```
-            brew install yarn
+                brew install yarn
 ```
 
 +++
