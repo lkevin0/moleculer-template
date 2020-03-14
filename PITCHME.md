@@ -5,6 +5,12 @@
 
 ---
 
+@css[heading](Moleculer)
+
+@css[text-08](Microservice, The First Step)
+---
+@title[Set up Visual Studio Code]
+
 Set up Visual Studio Code
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install Extension Huachao Mao: [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
@@ -16,7 +22,7 @@ Set up Visual Studio Code
 @css[heading](Set up @color[#0C6EC9](Homebrew &#40;macOS&#41;))
 
 ```
-@css[text-01](/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)")
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 @css[text-05 text-gray](Copy and Paste in a macOS Terminal)
 ---
