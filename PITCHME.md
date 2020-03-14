@@ -10,6 +10,7 @@
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install Extension Huachao Mao: [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
 @css[tip](Press the Space or Down key for more details.)
 
 +++
