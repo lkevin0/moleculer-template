@@ -11,7 +11,7 @@
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install Extension [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) (Huachao Mao)
 
-@css[text-05 text-gray](Press the Space or Down key for more details.)
+@css[text-05 text-gray](Press the Space or Down key for macOS.)
 
 +++
 @title[Adding Visual Studio Code To The Command Line (macOS)]
