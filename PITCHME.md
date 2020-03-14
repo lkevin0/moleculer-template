@@ -12,7 +12,7 @@ Set up Visual Studio Code
 4. Type 'shell command’ to find
         Shell Command: Install 'code' command in PATH
 ---
-@snap[midpoint]
+@snap[north]
 Set up @color[#0C6EC9](Homebrew &#40;macOS&#41;)
 
 ```bash
@@ -20,7 +20,7 @@ Set up @color[#0C6EC9](Homebrew &#40;macOS&#41;)
 ```
 @snapend
 
-@snap[midpoint text-05 text-gray]
+@snap[south text-05 text-gray]
 Copy and Paste in a macOS Terminal
 @snapend
 ---
