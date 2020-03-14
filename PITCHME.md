@@ -13,7 +13,7 @@
 
 @css[text-05 text-gray](Press the Space or Down key for macOS.)
 
-+++
+---
 @title[Adding Visual Studio Code To The Command Line (macOS)]
 
 #### Adding Visual Studio Code To The Command Line (macOS)
@@ -46,7 +46,7 @@
                     brew install yarn
 ```
 
-+++
+---
 @title[Set up Node.js (Windows)]
 
 ### Set up @color[#0C6EC9](Node.js) (Windows)
