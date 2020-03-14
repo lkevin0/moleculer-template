@@ -18,7 +18,7 @@ Set up @color[#0C6EC9](Homebrew &#40;macOS&#41;)
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
-[text-05](Copy and Paste in a macOS Terminal)
+@css[tip](Copy and Paste in a macOS Terminal)
 
 @snap[south span-100 text-05 text-gray]
 Copy and Paste in a macOS Terminal
