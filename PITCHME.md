@@ -12,12 +12,13 @@ Set up Visual Studio Code
 4. Type 'shell command’ to find
         Shell Command: Install 'code' command in PATH
 ---
-
+@snap[midpoint]
 Set up @color[#0C6EC9](Homebrew &#40;macOS&#41;)
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+@snapend
 
 @snap[midpoint text-05 text-gray]
 Copy and Paste in a macOS Terminal
