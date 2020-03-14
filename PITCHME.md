@@ -25,7 +25,6 @@ tw.on('tweet', function(tweet){
 @[2,3]
 @[5-10]
 
----
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
 
 <iframe class="stretch" data-src="https://codesandbox.io/s/github/moleculerjs/sandbox-moleculer-api-routing/tree/master/?fontsize=14"></iframe>
