@@ -13,14 +13,14 @@ Set up Visual Studio Code
         Shell Command: Install 'code' command in PATH
 ---
 
-Set up @color[#0C6EC9](Homebrew `(`macOS)@color[#0C6EC9](`)`)
+Set up @color[#0C6EC9](Homebrew \\\(macOS\\\))
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
-@snap[south help docslink span-80]
-@color[#FFFFFF]@size[1em](Copy and Paste in a macOS Terminal)
+@snap[south help docslink span-80 text-gray]
+Copy and Paste in a macOS Terminal
 @snapend
 ---
 
