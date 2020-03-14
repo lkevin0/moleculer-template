@@ -26,4 +26,6 @@ tw.on('tweet', function(tweet){
 @[5-10]
 
 ---
-<iframe width="400" height="600" data-src="https://codesandbox.io/s/github/moleculerjs/sandbox-moleculer-api-routing/tree/master/?fontsize=14"></iframe>
+---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
+
+<iframe class="stretch" data-src="https://codesandbox.io/s/github/moleculerjs/sandbox-moleculer-api-routing/tree/master/?fontsize=14"></iframe>
