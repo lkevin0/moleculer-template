@@ -15,9 +15,8 @@ Set up Visual Studio Code
 
 Set up @color[#0C6EC9](Homebrew &#40;macOS&#41;)
 
-```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-```
+
 @css[text-05 text-gray](Copy and Paste in a macOS Terminal)
 ---
 
