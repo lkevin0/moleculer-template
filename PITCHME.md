@@ -21,6 +21,7 @@
 4. Open @color[#0C6EC9](Command Palette &#40;⇧⌘P&#41;)
 5. Type 'shell command' to find
 6. Select option
+    
     Shell Command: Install 'code' command in PATH
 ---
 
