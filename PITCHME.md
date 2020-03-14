@@ -23,7 +23,7 @@
 6. Select option
 
 ```
-            Shell Command: Install 'code' command in PATH
+                Shell Command: Install 'code' command in PATH
 ```
 
 ---
