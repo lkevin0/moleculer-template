@@ -20,7 +20,7 @@ Set up @color[#0C6EC9](Homebrew `(`macOS)@color[#0C6EC9](`)`)
 ```
 
 @snap[south help docslink span-80]
-@color[#FFFFFF](Copy and Paste in a macOS Terminal)
+@color[#FFFFFF]@size[1em](Copy and Paste in a macOS Terminal)
 @snapend
 ---
 
