@@ -34,8 +34,22 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 @css[text-05 text-gray](Copy and Paste in a macOS Terminal)
----
 
+---
+@title[Set up Node.js]
+
+### Set up @color[#0C6EC9](Node.js)
+
+1. On macOS, Open terminal and run
+
+```
+brew install yarn
+```
+
+2. On Windows, Download and Install [Node.js](https://nodejs.org/en/download/)
+3. Download and Install [yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
+
+---
 @snap[north-east span-100 text-06 text-gray]
 Live Code Presenting
 @snapend
