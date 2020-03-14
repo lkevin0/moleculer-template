@@ -11,12 +11,12 @@
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install Extension Huachao Mao: [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-@css[tip](Press the Space or Down key for more details.)
+@css[text-05 text-gray](Press the Space or Down key for more details.)
 
 +++
 @title[Adding Visual Studio Code To The Command Line (macOS)]
 
-### Adding Visual Studio Code To The Command Line (macOS)
+#### Adding Visual Studio Code To The Command Line (macOS)
 3. Launch @color[#0C6EC9](VS Code)
 4. Open @color[#0C6EC9](Command Palette &#40;⇧⌘P&#41;)
 5. Type 'shell command' to find
