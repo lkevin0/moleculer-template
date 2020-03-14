@@ -6,11 +6,12 @@
 ---
 @title[Set up Visual Studio Code]
 
-### Set up @color[#0C6EC9](Visual Studio Code)
+#### Set up @color[#0C6EC9](Visual Studio Code)
+
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install Extension Huachao Mao: [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 3. On macOS, Open Command Palette (⇧⌘P)
-4. Type 'shell command’ to find
+4. Type 'shell command' to find
         Shell Command: Install 'code' command in PATH
 ---
 
