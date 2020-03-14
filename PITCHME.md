@@ -36,16 +36,23 @@
 @css[text-05 text-gray](Copy and Paste in a macOS Terminal)
 
 ---
-@title[Set up Node.js]
+@title[Set up Node.js (macOS)]
 
-### Set up @color[#0C6EC9](Node.js)
+### Set up @color[#0C6EC9](Node.js) (macOS)
 
-1. On macOS, Open terminal and run
+1. Open terminal
+2. Run the following command
 ```
-    brew install yarn
+            brew install yarn
 ```
-2. On Windows, Download and Install [Node.js](https://nodejs.org/en/download/)
-3. Download and Install [yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
+
++++
+@title[Set up Node.js (Windows)]
+
+### Set up @color[#0C6EC9](Node.js) (Windows)
+
+1. Download and Install [Node.js](https://nodejs.org/en/download/)
+2. Download and Install [yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 
 ---
 @snap[north-east span-100 text-06 text-gray]
