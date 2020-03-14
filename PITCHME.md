@@ -5,6 +5,11 @@
 
 ---
 
+# Set up **Visual Studio Code**
+1. Install Visual Studio Code
+2. Install Extension Huachao Mao: REST Client
+---
+
 @snap[north-east span-100 text-06 text-gray]
 Live Code Presenting
 @snapend
