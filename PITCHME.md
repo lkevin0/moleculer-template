@@ -14,6 +14,7 @@
 5. TypeScript 3.8+
 6. moleculer-cli 0.7.0+
 7. Git
+8. Microsoft Account หรือ Github Account สำหรับการทำ Live Code Sharing
 
 ---
 @title[Set up Visual Studio Code]
@@ -98,6 +99,21 @@
 ```
                     yarn global add moleculer-cli
 ```
+
+---
+
+### Git (macOS)
+
+```
+brew install git
+```
+
+---
+
+### Git (Windows)
+
+Download and install git
+
 ---
 @snap[north-east span-100 text-06 text-gray]
 Live Code Presenting
