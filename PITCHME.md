@@ -52,7 +52,7 @@
 ### Set up @color[#0C6EC9](Node.js) (macOS)
 
 1. Open terminal
-2. Run the following command
+2. Run the following command:
 ```
                     brew install yarn
 ```
@@ -68,6 +68,8 @@
 ---
 @title[Set up TypeScript]
 
+### Set up TypeScript
+
 1. Open Terminal
 2. Run the following command:
 
@@ -77,6 +79,8 @@ yarn global add typescript
 
 ---
 @title[Setup moleculer-cli]
+
+### Set up moleculer-cli
 
 1. Open terminal
 2. Run the following command:
