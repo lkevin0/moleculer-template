@@ -102,17 +102,18 @@
 
 ---
 
-### Git (macOS)
+### Set up Git
 
+- macOS
 ```
 brew install git
 ```
 
----
+- Windows
 
-### Git (Windows)
-
-Download and install git
+```
+choco install git
+```
 
 ---
 @snap[north-east span-100 text-06 text-gray]
