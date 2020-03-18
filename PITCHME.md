@@ -44,7 +44,7 @@
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
-@css[text-05 text-gray](Copy and Paste in a macOS Terminal)
+@css[text-05 text-gray](Double click to Copy and Paste in a macOS Terminal)
 
 ---
 @title[Set up Node.js (macOS)]
@@ -74,7 +74,7 @@
 2. Run the following command:
 
 ```
-                yarn global add typescript
+                    yarn global add typescript
 ```
 
 ---
@@ -86,7 +86,7 @@
 2. Run the following command:
 
 ```
-                yarn global add moleculer-cli
+                    yarn global add moleculer-cli
 ```
 ---
 @snap[north-east span-100 text-06 text-gray]
