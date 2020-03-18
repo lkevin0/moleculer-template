@@ -74,7 +74,7 @@
 2. Run the following command:
 
 ```
-yarn global add typescript
+                yarn global add typescript
 ```
 
 ---
@@ -86,7 +86,7 @@ yarn global add typescript
 2. Run the following command:
 
 ```
-yarn global add moleculer-cli
+                yarn global add moleculer-cli
 ```
 ---
 @snap[north-east span-100 text-06 text-gray]
