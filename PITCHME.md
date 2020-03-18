@@ -9,7 +9,7 @@
 ### Tools
 1. Visual Studio Code (Latest Version)
 2. Homebrew (macOS)
-3. Node.js version 12 ขึ้นไป
+3. Node.js (version 12 ขึ้นไป)
 4. yarn 1.22+
 5. TypeScript 3.8+
 6. moleculer-cli 0.7.0+
@@ -62,8 +62,8 @@
 
 ### Set up @color[#0C6EC9](Node.js) (Windows)
 
-1. Download and Install [Node.js](https://nodejs.org/en/download/)
-2. Download and Install [yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
+1. Download and Install 🔗[Node.js](https://nodejs.org/en/download/)
+2. Download and Install 🔗[yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 
 ---
 @snap[north-east span-100 text-06 text-gray]
