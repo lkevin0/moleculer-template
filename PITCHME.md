@@ -1,9 +1,4 @@
 ---
-
-# Moleculer
-#### Microservice, The First Step
-
----
 @title[Tools]
 
 ### Tools
