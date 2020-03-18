@@ -24,8 +24,6 @@
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install Extension [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) (Huachao Mao)
 
-@css[text-05 text-gray](Press the Space or Down key for macOS.)
-
 ---
 @title[Adding Visual Studio Code To The Command Line (macOS)]
 
@@ -40,6 +38,7 @@
 ```
 
 ---
+@title[Setup Homebrew]
 
 ### Set up @color[#0C6EC9](Homebrew &#40;macOS&#41;)
 
@@ -101,7 +100,7 @@
 ```
 
 ---
-
+@title[Set up Git]
 ### Set up Git
 
 macOS
