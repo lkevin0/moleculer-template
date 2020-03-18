@@ -13,6 +13,7 @@
 4. yarn 1.22+
 5. TypeScript 3.8+
 6. moleculer-cli 0.7.0+
+7. Git
 
 ---
 @title[Set up Visual Studio Code]
@@ -44,7 +45,7 @@
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
-@css[text-05 text-gray](Double click to Copy and Paste in a macOS Terminal)
+@css[text-05 text-gray](Double click text to Copy and Paste in a macOS Terminal)
 
 ---
 @title[Set up Node.js (macOS)]
@@ -63,7 +64,16 @@
 ### Set up @color[#0C6EC9](Node.js) (Windows)
 
 1. Download and Install 🔗[Node.js](https://nodejs.org/en/download/)
-2. Download and Install 🔗[yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
+    - Tool for Native Modules
+        - ทำเครื่องหมาย ✅ Automatically install the necessary tools. Note that this will also install Chocolatey.
+2. Open Powershell (Run as administrator)
+3. Run the following command:
+
+```
+                choco install yarn
+```
+
+- (กรณีไม่ได้ติดตั้ง Chocolatey) Download and Install 🔗[yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 
 ---
 @title[Set up TypeScript]
