@@ -4,6 +4,17 @@
 #### Microservice, The First Step
 
 ---
+@title[Tools]
+
+### Tools
+1. Visual Studio Code (Latest Version)
+2. Homebrew (macOS)
+3. Node.js version 12 ขึ้นไป
+4. yarn 1.22+
+5. TypeScript 3.8+
+6. moleculer-cli 0.7.0+
+
+---
 @title[Set up Visual Studio Code]
 
 ### Set up @color[#0C6EC9](Visual Studio Code)
