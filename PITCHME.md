@@ -106,13 +106,13 @@
 
 macOS
 ```
-                    brew install git
+                            brew install git
 ```
 
 Windows
 
 ```
-                    choco install git
+                            choco install git
 ```
 
 ---
