@@ -66,6 +66,25 @@
 2. Download and Install 🔗[yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 
 ---
+@title[Set up TypeScript]
+
+1. Open Terminal
+2. Run the following command:
+
+```
+yarn global add typescript
+```
+
+---
+@title[Setup moleculer-cli]
+
+1. Open terminal
+2. Run the following command:
+
+```
+yarn global add moleculer-cli
+```
+---
 @snap[north-east span-100 text-06 text-gray]
 Live Code Presenting
 @snapend
