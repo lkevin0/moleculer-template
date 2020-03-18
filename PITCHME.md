@@ -14,7 +14,7 @@
 5. TypeScript 3.8+
 6. moleculer-cli 0.7.0+
 7. Git
-8. Microsoft Account หรือ Github Account สำหรับการทำ Live Code Sharing
+8. (Optional) Microsoft Account หรือ Github Account สำหรับการทำ VS Code Live Share
 
 ---
 @title[Set up Visual Studio Code]
@@ -106,13 +106,13 @@
 
 - macOS
 ```
-brew install git
+            brew install git
 ```
 
 - Windows
 
 ```
-choco install git
+            choco install git
 ```
 
 ---
