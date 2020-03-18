@@ -104,12 +104,12 @@
 
 ### Set up Git
 
-- macOS
+macOS
 ```
             brew install git
 ```
 
-- Windows
+Windows
 
 ```
             choco install git
